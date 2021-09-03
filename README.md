@@ -5,7 +5,5 @@ Intro: This is a simple app that I wrote using typescript and React that allows 
 ## Technologies Used
 CRA, Typescript, CSS
 
-In the project directory, you can run:
-
 ### API Used
 API credit goes to https://www.opentdb.com - used for fetching questions and answers.
